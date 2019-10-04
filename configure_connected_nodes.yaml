@@ -1,0 +1,70 @@
+- job-template:
+    name: 'node-{node_name}'
+    node: '{label_name}'
+    auth-token: slave
+    builders:
+      - shell: |
+          cd Selenium/Testcases
+          robot techlisticTCs.txt         
+    scm:
+      - git:
+          url: https://github.com/OSrivalli/Automation_TC
+          credentials:
+            - name: srivalli
+          branches:
+            - '*/master'
+          skip-tag: true
+    robotConfig:
+        robotResultsColumnEnabled: true
+    publishers:
+      - robot:
+          output-path: /home/{label_name}/PycharmProjects/Selenium/Robotframework_Site/Testcases
+          pass-threshold: 0.0
+          only-critical: true
+      - email-ext:
+#         recipients: '{recepients}'
+          recipients: $DEFAULT_RECIPIENTS
+          reply-to: $DEFAULT_REPLYTO
+          content-type: both-html-text
+          subject: $DEFAULT_SUBJECT
+#          content: Hi<br /><br />${SCRIPT,template="email-template.groovy"}<br /><br />thanks<br />automation team<br />
+          content: $DEFAULT_CONTENT
+    location:
+       adminAddress: "srivalli.oguri@thundersoft.com"
+       url: "http://localhost:8080/"
+    mailer:
+       adminAddress: "srivalli.oguri@thundersoft.com"
+       charset: "UTF-8"
+       defaultSuffix: "@thundersoft.com"
+       smtpHost: "mail.thundersoft.com"
+       smtpPort: "465"
+       useSsl: true
+
+- job-group:
+    name: '01-{node_name}'
+    jobs:
+    - 'node-{node_name}':
+
+- project:
+    name: Test_Automation
+    node_name:
+     - Nandu:
+#        recepients: nandu@thundersoft.com
+        label_name: nandu
+     - Nikhil:
+#        recepients: nikhil@thundersoft.com
+        label_name: nikhil
+     - Manikanta:
+#        recepients: mani@thundersoft.com
+        label_name: manikanta
+     - Ravichandra:
+#        recepients: ravi@thundersoft.com
+        label_name: ravichandra
+     - Sravya:
+#        recepients: ravi@thundersoft.com
+        label_name: sravya
+
+
+    jobs:
+      - '01-{node_name}'
+

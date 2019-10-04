@@ -1,0 +1,21 @@
+https://dzone.com/articles/jenkins-job-builder-tutorial-ccjpe-11
+https://docs.openstack.org/infra/jenkins-job-builder/
+
+https://jenkins-epo.readthedocs.io/en/latest/yml.html
+
+https://github.com/constantcontact/jenkins_pipeline_builder
+https://github.com/puppetlabs/jenkins-job-builder
+https://github.com/hmrc/jenkins-job-builders
+https://github.com/piyush0101/jenkins-view-builder
+
+https://docs.openstack.org/infra/jenkins-job-builder/execution.html
+http://manpages.ubuntu.com/manpages/trusty/man1/jenkins-jobs.1.html
+
+https://www.unixdaemon.net/tools/trying-jenkins-view-builder/
+  jenkins-view-builder test puppet-view.yaml
+  jenkins-view-builder update --conf jenkins.conf puppet-view.yaml
+  -- jenkins.conf file--
+
+https://pyyaml.org/wiki/PyYAMLDocumentation
+
+

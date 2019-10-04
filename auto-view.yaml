@@ -1,0 +1,24 @@
+- view:
+    type: nested
+    name: My jobs
+    views:
+      - view:
+          type: list
+          name: Automated Tests
+          description: Jobs included in automation test
+          jobs:
+             - node-Nandu
+             - node-Nikhil
+             - node-Manikanta
+             - node-Ravichandra
+             - configure_auto_test
+          columns:
+             - status
+             - weather
+             - job
+             - last_success
+             - last_failure
+             - last_duration
+#            - build_button
+#             - robot
+          recurse: False

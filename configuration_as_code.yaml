@@ -1,0 +1,16 @@
+    jenkins:
+         systemMessage: "SRIVALLI OGURI"
+
+    location:
+         adminAddress: srivalli.oguri@thundersoft.com
+         url: https://localhost:8080/
+#    unclassified:
+#         mailer:
+#             adminAddress: srivalli.oguri@thundersoft.com
+#             charset: UTF-8
+#             smtpHost: mail.thundersoft.com
+#             smtpPort: 465
+#             useSsl: true
+
+
+#  in /home/srivalli/.jenkins/j.yaml
