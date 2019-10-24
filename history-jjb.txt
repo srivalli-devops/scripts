@@ -1,0 +1,1000 @@
+ 1003  nano test_reactive.yaml 
+ 1004  jenkins-jobs test test_reactive.yaml -o .
+ 1005  nano test_reactive.yaml 
+ 1006  jenkins-jobs test test_reactive.yaml -o .
+ 1007  nano test_reactive.yaml 
+ 1008  jenkins-jobs test test_reactive.yaml -o .
+ 1009  nano test_reactive.yaml 
+ 1010  jenkins-jobs test test_reactive.yaml -o .
+ 1011  nano test_reactive.yaml 
+ 1012  jenkins-jobs test test_reactive.yaml -o .
+ 1013  nano test_reactive.yaml 
+ 1014  jenkins-jobs test test_reactive.yaml -o .
+ 1015  nano test_reactive.yaml 
+ 1016  jenkins-jobs test test_reactive.yaml -o .
+ 1017  nano test_reactive.yaml 
+ 1018  jenkins-jobs test test_reactive.yaml -o .
+ 1019  nano test_reactive.yaml 
+ 1020  jenkins-jobs test test_reactive.yaml -o .
+ 1021  nano test_reactive.yaml 
+ 1022  jenkins-jobs test test_reactive.yaml -o .
+ 1023  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1024  nano test_reactive.yaml 
+ 1025  jenkins-jobs test test_reactive.yaml -o .
+ 1026  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1027  nano test_reactive.yaml 
+ 1028  jenkins-jobs test test_reactive.yaml -o .
+ 1029  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1030  nano test_reactive.yaml 
+ 1031  jenkins-jobs test test_reactive.yaml -o .
+ 1032  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1033  nano test_reactive.yaml 
+ 1034  jenkins-jobs test test_reactive.yaml -o .
+ 1035  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1036  nano test_reactive.yaml 
+ 1037  jenkins-jobs test test_reactive.yaml -o .
+ 1038  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1039  nano test_reactive.yaml 
+ 1040  jenkins-jobs test test_reactive.yaml -o .
+ 1041  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1042  nano test_reactive.yaml 
+ 1043  jenkins-jobs test test_reactive.yaml -o .
+ 1044  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1045  nano test_reactive.yaml 
+ 1046  jenkins-jobs test test_reactive.yaml -o .
+ 1047  nano test_reactive.yaml 
+ 1048  jenkins-jobs test test_reactive.yaml -o .
+ 1049  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1050  nano test_reactive.yaml 
+ 1051  jenkins-jobs test test_reactive.yaml -o .
+ 1052  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1053  nano test_reactive.yaml 
+ 1054  jenkins-jobs test test_reactive.yaml -o .
+ 1055  nano test_reactive.yaml 
+ 1056  jenkins-jobs test test_reactive.yaml -o .
+ 1057  nano test_reactive.yaml 
+ 1058  jenkins-jobs test test_reactive.yaml -o .
+ 1059  nano test_reactive.yaml 
+ 1060  jenkins-jobs test test_reactive.yaml -o .
+ 1061  nano test_reactive.yaml 
+ 1062  jenkins-jobs test test_reactive.yaml -o .
+ 1063  nano test_reactive.yaml 
+ 1064  jenkins-jobs test test_reactive.yaml -o .
+ 1065  nano test_reactive.yaml 
+ 1066  jenkins-jobs test test_reactive.yaml -o .
+ 1067  nano test_reactive.yaml 
+ 1068  jenkins-jobs test test_reactive.yaml -o .
+ 1069  nano test_reactive.yaml 
+ 1070  jenkins-jobs test test_reactive.yaml -o .
+ 1071  nano test_reactive.yaml 
+ 1072  jenkins-jobs test test_reactive.yaml -o .
+ 1073  nano test_reactive.yaml 
+ 1074  jenkins-jobs test test_reactive.yaml -o .
+ 1075  nano test_reactive.yaml 
+ 1076  jenkins-jobs test test_reactive.yaml -o .
+ 1077  nano test_reactive.yaml 
+ 1078  jenkins-jobs test test_reactive.yaml -o .
+ 1079  nano test_reactive.yaml 
+ 1080  jenkins-jobs test test_reactive.yaml -o .
+ 1081  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1082  nano test_reactive.yaml 
+ 1083  jenkins-jobs test test_reactive.yaml -o .
+ 1084  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1085  nano test_reactive.yaml 
+ 1086  jenkins-jobs test test_reactive.yaml -o .
+ 1087  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1088  nano test_reactive.yaml 
+ 1089  jenkins-jobs test test_reactive.yaml -o .
+ 1090  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1091  nano test_reactive.yaml 
+ 1092  jenkins-jobs test test_reactive.yaml -o .
+ 1093  nano test_reactive.yaml 
+ 1094  jenkins-jobs test test_reactive.yaml -o .
+ 1095  nano test_reactive.yaml 
+ 1096  jenkins-jobs test test_reactive.yaml -o .
+ 1097  nano test_reactive.yaml 
+ 1098  jenkins-jobs test test_reactive.yaml -o .
+ 1099  nano test_reactive.yaml 
+ 1100  jenkins-jobs test test_reactive.yaml -o .
+ 1101  nano test_reactive.yaml 
+ 1102  jenkins-jobs test test_reactive.yaml -o .
+ 1103  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1104  nano test_reactive.yaml 
+ 1105  jenkins-jobs test test_reactive.yaml -o .
+ 1106  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1107  nano test_reactive.yaml 
+ 1108  jenkins-jobs test test_reactive.yaml -o .
+ 1109  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1110  nano test_reactive.yaml 
+ 1111  jenkins-jobs test test_reactive.yaml -o .
+ 1112  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1113  nano test_reactive.yaml 
+ 1114  jenkins-jobs test test_reactive.yaml -o .
+ 1115  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1116  nano test_reactive.yaml 
+ 1117  jenkins-jobs test test_reactive.yaml -o .
+ 1118  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1119  nano test_reactive.yaml 
+ 1120  jenkins-jobs test test_reactive.yaml -o .
+ 1121  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1122  nano test_reactive.yaml 
+ 1123  jenkins-jobs test test_reactive.yaml -o .
+ 1124  nano test_reactive.yaml 
+ 1125  jenkins-jobs test test_reactive.yaml -o .
+ 1126  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1127  nano test_reactive.yaml 
+ 1128  jenkins-jobs test test_reactive.yaml -o .
+ 1129  nano test_reactive.yaml 
+ 1130  jenkins-jobs test test_reactive.yaml -o .
+ 1131  nano test_reactive.yaml 
+ 1132  jenkins-jobs test test_reactive.yaml -o .
+ 1133  nano test_reactive.yaml 
+ 1134  jenkins-jobs test test_reactive.yaml -o .
+ 1135  nano test_reactive.yaml 
+ 1136  jenkins-jobs test test_reactive.yaml -o .
+ 1137  nano test_reactive.yaml 
+ 1138  jenkins-jobs test test_reactive.yaml -o .
+ 1139  nano test_reactive.yaml 
+ 1140  jenkins-jobs test test_reactive.yaml -o .
+ 1141  nano test_reactive.yaml 
+ 1142  jenkins-jobs test test_reactive.yaml -o .
+ 1143  nano test_reactive.yaml 
+ 1144  jenkins-jobs test test_reactive.yaml -o .
+ 1145  nano test_reactive.yaml 
+ 1146  jenkins-jobs test test_reactive.yaml -o .
+ 1147  nano test_reactive.yaml 
+ 1148  jenkins-jobs test test_reactive.yaml -o .
+ 1149  nano test_reactive.yaml 
+ 1150  jenkins-jobs test test_reactive.yaml -o .
+ 1151  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update test_reactive.yaml 
+ 1152  nano test_reactive.yaml 
+ 1153  cp test_reactive.yaml node_nandu.yaml
+ 1154  nano node_nandu.yaml
+ 1155  jenkins-jobs test node_nandu.yaml -o .
+ 1156  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_nandu.yaml 
+ 1157  nano node_nandu.yaml
+ 1158  jenkins-jobs test node_nandu.yaml -o .
+ 1159  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_nandu.yaml 
+ 1160  nano node_nandu.yaml
+ 1161  cp node_nandu.yaml device_samsung.yaml
+ 1162  jenkins-jobs test device_samsung.yaml -o .
+ 1163  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update device_samsung.yaml 
+ 1164  cp node_nandu.yaml device_samsung.yaml
+ 1165  nano device_samsung.yaml
+ 1166  jenkins-jobs test device_samsung.yaml -o .
+ 1167  nano device_samsung.yaml
+ 1168  jenkins-jobs test device_samsung.yaml -o .
+ 1169  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update device_samsung.yaml 
+ 1170  nano device_samsung.yaml
+ 1171  jenkins-jobs test device_samsung.yaml -o .
+ 1172  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update device_samsung.yaml 
+ 1173  nano node_nandu.yaml
+ 1174  jenkins-jobs test node_nandu.yaml -o .
+ 1175  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_nandu.yaml 
+ 1176  nano device_samsung.yaml
+ 1177  jenkins-jobs test device_samsung.yaml -o .
+ 1178  nano device_samsung.yaml
+ 1179  jenkins-jobs test device_samsung.yaml -o .
+ 1180  nano device_samsung.yaml
+ 1181  jenkins-jobs test device_samsung.yaml -o .
+ 1182  nano device_samsung.yaml
+ 1183  jenkins-jobs test device_samsung.yaml -o .
+ 1184  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update device_samsung.yaml 
+ 1185  nano device_samsung.yaml
+ 1186  jenkins-jobs test device_samsung.yaml -o .
+ 1187  cp device_samsung.yaml node_SAMSUNG.yaml
+ 1188  jenkins-jobs test node_SAMSUNG.yaml -o .
+ 1189  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_SAMSUNG.yaml 
+ 1190  cp device_samsung.yaml node_SAMSUNG.yaml
+ 1191  nano node_SAMSUNG.yaml
+ 1192  jenkins-jobs test node_SAMSUNG.yaml -o .
+ 1193  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_SAMSUNG.yaml 
+ 1194  nano node_SAMSUNG.yaml
+ 1195  cp node_SAMSUNG.yaml node_NANDU.yaml
+ 1196  jenkins-jobs test node_NANDU.yaml -o .
+ 1197  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1198  nano node_NANDU.yaml
+ 1199  jenkins-jobs test node_NANDU.yaml -o .
+ 1200  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1201  nano node_NANDU.yaml
+ 1202  jenkins-jobs test node_NANDU.yaml -o .
+ 1203  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1204  nano node_NANDU.yaml
+ 1205  jenkins-jobs test node_NANDU.yaml -o .
+ 1206  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1207  nano node_NANDU.yaml
+ 1208  jenkins-jobs test node_NANDU.yaml -o .
+ 1209  nano node_NANDU.yaml
+ 1210  jenkins-jobs test node_NANDU.yaml -o .
+ 1211  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1212  nano node_NANDU.yaml
+ 1213  jenkins-jobs test node_NANDU.yaml -o .
+ 1214  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1215  nano node_NANDU.yaml
+ 1216  jenkins-jobs test node_NANDU.yaml -o .
+ 1217  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1218  nano node_NANDU.yaml
+ 1219  jenkins-jobs test node_NANDU.yaml -o .
+ 1220  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1221  nano node_NANDU.yaml
+ 1222  jenkins-jobs test node_NANDU.yaml -o .
+ 1223  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1224  nano node_NANDU.yaml
+ 1225  jenkins-jobs test node_NANDU.yaml -o .
+ 1226  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1227  nano node_NANDU.yaml
+ 1228  jenkins-jobs test node_NANDU.yaml -o .
+ 1229  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1230  nano node_NANDU.yaml
+ 1231  jenkins-jobs test node_NANDU.yaml -o .
+ 1232  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1233  nano node_NANDU.yaml
+ 1234  jenkins-jobs test node_NANDU.yaml -o .
+ 1235  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1236  nano node_NANDU.yaml
+ 1237  jenkins-jobs test node_NANDU.yaml -o .
+ 1238  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1239  nano node_NANDU.yaml
+ 1240  jenkins-jobs test node_NANDU.yaml -o .
+ 1241  nano node_NANDU.yaml
+ 1242  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1243  jenkins-jobs test node_NANDU.yaml -o .
+ 1244  nano node_NANDU.yaml
+ 1245  jenkins-jobs test node_NANDU.yaml -o .
+ 1246  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1247  nano node_NANDU.yaml
+ 1248  jenkins-jobs test node_NANDU.yaml -o .
+ 1249  nano node_NANDU.yaml
+ 1250  jenkins-jobs test node_NANDU.yaml -o .
+ 1251  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1252  nano node_NANDU.yaml
+ 1253  jenkins-jobs test node_NANDU.yaml -o .
+ 1254  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1255  nano node_NANDU.yaml
+ 1256  jenkins-jobs test node_NANDU.yaml -o .
+ 1257  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1258  nano node_NANDU.yaml
+ 1259  jenkins-jobs test node_NANDU.yaml -o .
+ 1260  nano node_NANDU.yaml
+ 1261  jenkins-jobs test node_NANDU.yaml -o .
+ 1262  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1263  nano node_NANDU.yaml
+ 1264  jenkins-jobs test node_NANDU.yaml -o .
+ 1265  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1266  nano node_NANDU.yaml
+ 1267  jenkins-jobs test node_NANDU.yaml -o .
+ 1268  nano node_NANDU.yaml
+ 1269  jenkins-jobs test node_NANDU.yaml -o .
+ 1270  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1271  nano node_NANDU.yaml
+ 1272  jenkins-jobs test node_NANDU.yaml -o .
+ 1273  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1274  nano node_NANDU.yaml
+ 1275  jenkins-jobs test node_NANDU.yaml -o .
+ 1276  nano node_NANDU.yaml
+ 1277  jenkins-jobs test node_NANDU.yaml -o .
+ 1278  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1279  nano node_NANDU.yaml
+ 1280  jenkins-jobs test node_NANDU.yaml -o .
+ 1281  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1282  nano node_NANDU.yaml
+ 1283  jenkins-jobs test node_NANDU.yaml -o .
+ 1284  nano node_NANDU.yaml
+ 1285  jenkins-jobs test node_NANDU.yaml -o .
+ 1286  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1287  nano node_NANDU.yaml
+ 1288  jenkins-jobs test node_NANDU.yaml -o .
+ 1289  nano node_NANDU.yaml
+ 1290  jenkins-jobs test node_NANDU.yaml -o .
+ 1291  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1292  nano node_NANDU.yaml
+ 1293  jenkins-jobs test node_NANDU.yaml -o .
+ 1294  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_NANDU.yaml 
+ 1295  nano node_NANDU.yaml
+ 1296  jenkins-jobs test jjb_youtube.yaml -o .
+ 1297  nano /etc/jenkins_jobs/jenkins_jobs.ini
+ 1298  nano 0_test_job.yaml
+ 1299  jenkins-jobs update jobs
+ 1300  jenkins-jobs test 0_test_job.yaml -o .
+ 1301  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update 0_test_job.yaml 
+ 1302  nano 0_test_job.yaml
+ 1303  mkdir jobs
+ 1304  mv 0_test_job.yaml jobs/
+ 1305  cd jobs/
+ 1306  ls
+ 1307  jenkins-jobs update jobs
+ 1308  ls
+ 1309  cd ..
+ 1310  ls
+ 1311  jenkins-jobs update jobs
+ 1312  nano jobs/0_test.yaml
+ 1313  nano jobs/0_default.yaml
+ 1314  jenkins-jobs update jobs
+ 1315  nano jobs/scm.yaml
+ 1316  jenkins-jobs update jobs
+ 1317  nano jobs/scm.yaml
+ 1318  jenkins-jobs update jobs
+ 1319  nano jobs/scm.yaml
+ 1320  jenkins-jobs update jobs
+ 1321  nano jobs/scm.yaml
+ 1322  jenkins-jobs update jobs
+ 1323  nano jobs/scm.yaml
+ 1324  jenkins-jobs update jobs
+ 1325  nano jobs/scm.yaml
+ 1326  jenkins-jobs update jobs
+ 1327  nano jobs/scm.yaml
+ 1328  jenkins-jobs update jobs
+ 1329  nano jobs/scm.yaml
+ 1330  jenkins-jobs update jobs
+ 1331  nano jobs/scm.yaml
+ 1332  jenkins-jobs update jobs
+ 1333  nano jobs/scm.yaml
+ 1334  jenkins-jobs update jobs
+ 1335  nano jobs/scm.yaml
+ 1336  jenkins-jobs update jobs
+ 1337  nano jobs/scm.yaml
+ 1338  jenkins-jobs update jobs
+ 1339  nano jobs/scm.yaml
+ 1340  jenkins-jobs update jobs
+ 1341  nano jobs/scm.yaml
+ 1342  jenkins-jobs update jobs
+ 1343  nano jobs/scm.yaml
+ 1344  jenkins-jobs update jobs
+ 1345  nano jobs/scm.yaml
+ 1346  jenkins-jobs update jobs
+ 1347  nano jobs/scm.yaml
+ 1348  mv jobs/scm.yaml .
+ 1349  jenkins-jobs update jobs
+ 1350  ls
+ 1351  cd jobs/
+ 1352  ls
+ 1353  cat 0_test_job.yaml 
+ 1354  cd ..
+ 1355  ls -al
+ 1356  mv jjb_youtube.yaml jobs/
+ 1357  cd jobs/
+ 1358  ls
+ 1359  cat jjb_youtube.yaml 
+ 1360  cd ..
+ 1361  jenkins-jobs update jobs
+ 1362  cat jjb_youtube.yaml 
+ 1363  cd jobs/
+ 1364  nano jjb_youtube.yaml 
+ 1365  cd ..
+ 1366  jenkins-jobs update jobs
+ 1367  cd jobs/
+ 1368  ls
+ 1369  cat 0_test_job.yaml 
+ 1370  cat jjb_youtube.yaml 
+ 1371  mv 0_test_job.yaml test_job.yaml
+ 1372  ls
+ 1373  nano test_job.yaml 
+ 1374  mv 0_default.yaml default.yaml
+ 1375  mv jjb_youtube.yaml project-example.yaml
+ 1376  ls
+ 1377  nano default.yaml 
+ 1378  nano project-example.yaml 
+ 1379  cd ..
+ 1380  jenkins-jobs update jobs
+ 1381  cd ..
+ 1382  cd jenkins_jobs/jobs/
+ 1383  nano project-example.yaml 
+ 1384  cd ..
+ 1385  jenkins-jobs update jobs
+ 1386  nano jobs/project-example.yaml 
+ 1387  jenkins-jobs update jobs
+ 1388  cd jobs/
+ 1389  ls
+ 1390  mv project-example.yaml projects.yaml
+ 1391  cd ..
+ 1392  jenkins-jobs update jobs
+ 1393  cd jobs/
+ 1394  mv projects.yaml project.yaml
+ 1395  cd ..
+ 1396  jenkins-jobs update jobs
+ 1397  cd jobs/
+ 1398  ls
+ 1399  nano test_job.yaml 
+ 1400  cat test_job.yaml 
+ 1401  cat project.yaml 
+ 1402  nano project.yaml 
+ 1403  cd ..
+ 1404  jenkins-jobs update jobs
+ 1405  nano project.yaml 
+ 1406  cd jobs/
+ 1407  nano project.yaml 
+ 1408  nano test_job.yaml 
+ 1409  cd ..
+ 1410  jenkins-jobs update jobs
+ 1411  nano cd/test_job.yaml 
+ 1412  nano jobs/test_job.yaml 
+ 1413  jenkins-jobs update jobs
+ 1414  nano jobs/test_job.yaml 
+ 1415  jenkins-jobs update jobs
+ 1416  nano jobs/test_job.yaml 
+ 1417  jenkins-jobs update jobs
+ 1418  nano jobs/test_job.yaml 
+ 1419  jenkins-jobs update jobs
+ 1420  nano jobs/test_job.yaml 
+ 1421  jenkins-jobs update jobs
+ 1422  nano jobs/test_job.yaml 
+ 1423  jenkins-jobs update jobs
+ 1424  nano jobs/test_job.yaml 
+ 1425  jenkins-jobs update jobs
+ 1426  nano jobs/test_job.yaml 
+ 1427  jenkins-jobs update jobs
+ 1428  nano jobs/test_job.yaml 
+ 1429  jenkins-jobs update jobs
+ 1430  nano jobs/test_job.yaml 
+ 1431  jenkins-jobs update jobs
+ 1432  nano jobs/test_job.yaml 
+ 1433  nano jobs/project.yaml 
+ 1434  cat jobs/test_job.yaml 
+ 1435  nano jobs/project.yaml 
+ 1436  jenkins-jobs update jobs
+ 1437  mv jobs/test_job.yaml .
+ 1438  jenkins-jobs update jobs
+ 1439  nano jobs/project.yaml 
+ 1440  jenkins-jobs update jobs
+ 1441  nano jobs/project.yaml 
+ 1442  jenkins-jobs update jobs
+ 1443  nano jobs/project.yaml 
+ 1444  jenkins-jobs update jobs
+ 1445  nano jobs/project.yaml 
+ 1446  nano node_SAMSUNG.yaml 
+ 1447  jenkins-jobs test node_SAMSUNG.yaml -o .
+ 1448  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update node_SAMSUNG.yaml 
+ 1449  nano node_SAMSUNG.yaml 
+ 1450  jenkins-jobs test node_SAMSUNG.yaml -o .
+ 1451  nano node_SAMSUNG.yaml 
+ 1452  jenkins-jobs test node_SAMSUNG.yaml -o .
+ 1453  nano node_SAMSUNG.yaml 
+ 1454  mkdir jobs1
+ 1455  cd  jobs1
+ 1456  nano temp.yaml
+ 1457  jenkins-jobs test temp.yaml -o .
+ 1458  nano temp.yaml
+ 1459  jenkins-jobs test temp.yaml -o .
+ 1460  nano temp.yaml
+ 1461  jenkins-jobs test temp.yaml -o .
+ 1462  nano temp.yaml
+ 1463  jenkins-jobs test temp.yaml -o .
+ 1464  nano temp.yaml
+ 1465  jenkins-jobs test temp.yaml -o .
+ 1466  nano temp.yaml
+ 1467  jenkins-jobs test temp.yaml -o .
+ 1468  nano temp.yaml
+ 1469  jenkins-jobs test temp.yaml -o .
+ 1470  nano temp.yaml
+ 1471  jenkins-jobs test temp.yaml -o .
+ 1472  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update temp.yaml 
+ 1473  nano temp.yaml
+ 1474  jenkins-jobs test temp.yaml -o .
+ 1475  nano temp.yaml
+ 1476  jenkins-jobs test temp.yaml -o .
+ 1477  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update temp.yaml 
+ 1478  nano temp.yaml
+ 1479  jenkins-jobs test temp.yaml -o .
+ 1480  nano temp.yaml
+ 1481  jenkins-jobs test temp.yaml -o .
+ 1482  ls
+ 1483  jenkins-jobs test temp.yaml -o . --config.xml
+ 1484  jenkins-jobs test --config-xml temp.yaml -o .
+ 1485  nano temp.yaml
+ 1486  jenkins-jobs test --config-xml temp.yaml -o .
+ 1487  nano temp.yaml
+ 1488  jenkins-jobs test --config-xml temp.yaml -o .
+ 1489  nano temp.yaml
+ 1490  jenkins-jobs test --config-xml temp.yaml -o .
+ 1491  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update temp.yaml 
+ 1492  nano temp.yaml
+ 1493  jenkins-jobs test --config-xml temp.yaml -o .
+ 1494  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update temp.yaml 
+ 1495  cp temp.yaml working_template.yaml
+ 1496  nano working_template.yaml 
+ 1497  jenkins-jobs test --config-xml working_template.yaml -o .
+ 1498  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update working_template.yaml 
+ 1499  nano working_template.yaml 
+ 1500  jenkins-jobs test --config-xml working_template.yaml -o .
+ 1501  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update working_template.yaml 
+ 1502  cp working_template.yaml WT_scm.yaml
+ 1503  nano WT_scm.yaml 
+ 1504  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1505  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WY_scm.yaml 
+ 1506  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_scm.yaml 
+ 1507  nano WT_scm.yaml 
+ 1508  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1509  nano WT_scm.yaml 
+ 1510  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1511  nano WT_scm.yaml 
+ 1512  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1513  nano WT_scm.yaml 
+ 1514  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1515  nano WT_scm.yaml 
+ 1516  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1517  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_scm.yaml 
+ 1518  nano WT_scm.yaml 
+ 1519  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1520  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_scm.yaml 
+ 1521  nano WT_scm.yaml 
+ 1522  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1523  nano WT_scm.yaml 
+ 1524  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1525  nano WT_scm.yaml 
+ 1526  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1527  nano WT_scm.yaml 
+ 1528  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1529  nano WT_scm.yaml 
+ 1530  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1531  nano WT_scm.yaml 
+ 1532  jenkins-jobs test --config-xml WT_scm.yaml -o .
+ 1533  nano WT_scm.yaml 
+ 1534  mv WT_scm.yaml WT_PBS.yaml
+ 1535  ls
+ 1536  cd project-name-26/
+ 1537  ls
+ 1538  cat config.xml 
+ 1539  cd ..
+ 1540  rm -rf node-*
+ 1541  ls
+ 1542  rm -rf project-name-2*
+ 1543  ls
+ 1544  ls -al
+ 1545  cp WT_PBS.yaml WT_PBS_I.yaml
+ 1546  nano WT_PBS_I.yaml 
+ 1547  nano include-cmds.inc
+ 1548  mv include-cmds.inc include-cmds.sh
+ 1549  ls
+ 1550  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1551  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1552  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1553  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1554  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1555  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1556  nano WT_PBS_I.yaml 
+ 1557  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1558  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1559  nano WT_PBS_I.yaml 
+ 1560  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1561  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1562  ls
+ 1563  rm -rf node-*
+ 1564  ls
+ 1565  rm include-cmds.sh 
+ 1566  nano WT_PBS_I.yaml 
+ 1567  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1568  nano WT_PBS_I.yaml 
+ 1569  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1570  nano WT_PBS_I.yaml 
+ 1571  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1572  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1573  ls
+ 1574  rm -rf node-*
+ 1575  ls
+ 1576  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1577  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1578  nano WT_PBS_I.yaml 
+ 1579  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1580  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1581  nano WT_PBS_I.yaml 
+ 1582  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1583  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1584  cd ..
+ 1585  ls
+ 1586  nano pipe-A.yaml
+ 1587  nano pipe-A
+ 1588  nano pipe-var.yaml 
+ 1589  nano a.yaml 
+ 1590  nano new_job_1.yaml 
+ 1591  nano node_nandu.yaml 
+ 1592  nano WT_PBS_I.yaml 
+ 1593  ls
+ 1594  cd jobs1
+ 1595  nano WT_PBS_I.yaml 
+ 1596  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1597  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1598  nano WT_PBS_I.yaml 
+ 1599  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1600  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1601  nano WT_PBS_I.yaml 
+ 1602  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1603  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1604  nano WT_PBS_I.yaml 
+ 1605  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1606  nano WT_PBS_I.yaml 
+ 1607  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1608  nano WT_PBS_I.yaml 
+ 1609  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1610  nano WT_PBS_I.yaml 
+ 1611  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1612  nano WT_PBS_I.yaml 
+ 1613  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1614  nano WT_PBS_I.yaml 
+ 1615  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1616  nano WT_PBS_I.yaml 
+ 1617  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1618  nano WT_PBS_I.yaml 
+ 1619  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1620  nano WT_PBS_I.yaml 
+ 1621  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1622  nano WT_PBS_I.yaml 
+ 1623  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1624  nano WT_PBS_I.yaml 
+ 1625  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1626  nano WT_PBS_I.yaml 
+ 1627  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1628  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1629  nano WT_PBS_I.yaml 
+ 1630  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1631  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1632  nano WT_PBS_I.yaml 
+ 1633  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1634  nano WT_PBS_I.yaml 
+ 1635  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1636  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1637  nano WT_PBS_I.yaml 
+ 1638  nano WT_PBS.yaml 
+ 1639  nano WT_PBS_I.yaml 
+ 1640  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1641  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1642  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1643  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1644  nano WT_PBS_I.yaml 
+ 1645  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1646  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1647  nano WT_PBS_I.yaml 
+ 1648  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1649  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1650  nano WT_PBS_I.yaml 
+ 1651  jenkins-jobs test --config-xml WT_PBS_I.yaml -o .
+ 1652  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_I.yaml 
+ 1653  mv WT_PBS_I.yaml 
+ 1654  nano WT_PBS.yaml 
+ 1655  rm WT_PBS.yaml 
+ 1656  mv WT_PBS_I.yaml WT_PBS.yaml
+ 1657  jenkins-jobs test --config-xml WT_PBS.yaml -o .
+ 1658  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS.yaml 
+ 1659  mv WT_PBS_I.yaml WT_PBS.yaml
+ 1660  nano WT_PBS.yaml 
+ 1661  jenkins-jobs test --config-xml WT_PBS.yaml -o .
+ 1662  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS.yaml 
+ 1663  cp WT_PBS.yaml WT_PBS_P.yaml
+ 1664  nano WT_PBS_P.yaml 
+ 1665  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1666  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1667  nano WT_PBS_P.yaml 
+ 1668  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1669  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1670  nano WT_PBS_P.yaml 
+ 1671  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1672  nano WT_PBS_P.yaml 
+ 1673  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1674  nano WT_PBS_P.yaml 
+ 1675  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1676  nano WT_PBS_P.yaml 
+ 1677  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1678  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1679  nano WT_PBS_P.yaml 
+ 1680  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1681  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1682  nano WT_PBS_P.yaml 
+ 1683  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1684  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1685  nano WT_PBS_P.yaml 
+ 1686  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1687  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1688  nano WT_PBS_P.yaml 
+ 1689  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1690  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1691  nano WT_PBS_P.yaml 
+ 1692  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1693  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1694  nano WT_PBS_P.yaml 
+ 1695  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1696  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1697  nano WT_PBS_P.yaml 
+ 1698  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1699  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1700  rm node-*
+ 1701  ls
+ 1702  rm -rf node-*
+ 1703  ls
+ 1704  rm -rf A_node-*
+ 1705  ls
+ 1706  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1707  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1708  ls
+ 1709  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1710  nano WT_PBS_P.yaml 
+ 1711  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1712  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1713  nano WT_PBS_P.yaml 
+ 1714  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1715  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1716  nano WT_PBS_P.yaml 
+ 1717  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1718  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1719  nano WT_PBS_P.yaml 
+ 1720  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1721  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1722  nano WT_PBS_P.yaml 
+ 1723  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1724  nano WT_PBS_P.yaml 
+ 1725  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1726  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1727  nano WT_PBS_P.yaml 
+ 1728  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1729  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1730  nano WT_PBS_P.yaml 
+ 1731  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1732  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1733  nano WT_PBS_P.yaml 
+ 1734  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1735  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1736  nano WT_PBS_P.yaml 
+ 1737  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1738  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1739  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1740  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1741  nano WT_PBS_P.yaml 
+ 1742  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1743  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1744  nano WT_PBS_P.yaml 
+ 1745  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1746  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1747  nano WT_PBS_P.yaml 
+ 1748  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1749  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1750  nano WT_PBS_P.yaml 
+ 1751  jenkins-jobs test --config-xml WT_PBS_P.yaml -o .
+ 1752  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBS_P.yaml 
+ 1753  nano WT_PBS_P.yaml 
+ 1754  cp WT_PBS_P.yaml WT_PBSP_T.yaml
+ 1755  ls
+ 1756  rm -rf A_node-*
+ 1757  ls
+ 1758  nano WT_PBSP_T.yaml
+ 1759  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1760  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBSP_T.yaml 
+ 1761  nano WT_PBSP_T.yaml
+ 1762  ls
+ 1763  cd ..
+ 1764  ls -al
+ 1765  nano device_samsung.yaml 
+ 1766  nano react-node.yaml 
+ 1767  cp react-node.yaml jobs1/
+ 1768  cd jobs1
+ 1769  ls
+ 1770  rm -rf A_node-*
+ 1771  ls
+ 1772  nano react-node.yaml 
+ 1773  jenkins-jobs test --config-xml proj_node -o .
+ 1774  jenkins-jobs test --config-xml react-node -o .
+ 1775  jenkins-jobs test --config-xml react-node.yaml -o .
+ 1776  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update react-node.yaml 
+ 1777  nano react-node.yaml 
+ 1778  jenkins-jobs test --config-xml react-node.yaml -o .
+ 1779  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update react-node.yaml 
+ 1780  nano react-node.yaml 
+ 1781  jenkins-jobs test --config-xml react-node.yaml -o .
+ 1782  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update react-node.yaml 
+ 1783  ls
+ 1784  nano WT_PBSP_T.yaml 
+ 1785  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1786  nano WT_PBSP_T.yaml 
+ 1787  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1788  nano WT_PBSP_T.yaml 
+ 1789  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1790  nano WT_PBSP_T.yaml 
+ 1791  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1792  nano WT_PBSP_T.yaml 
+ 1793  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1794  nano WT_PBSP_T.yaml 
+ 1795  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1796  nano WT_PBSP_T.yaml 
+ 1797  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1798  nano WT_PBSP_T.yaml 
+ 1799  jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+ 1800  nano WT_PBSP_T.yaml 
+ 1801  clear
+ 1802  bdfg
+ 1803  clear
+ 1804  nano WT_PBSP_T.yaml 
+ 1805  pwd
+ 1806  mkdir new_git
+ 1807  cd new_git/
+ 1808  git clone https://github.com/thundersoft/Automation_TSI.git
+ 1809  cd ..
+ 1810  mkdir mygit
+ 1811  cd mygit
+ 1812  git clone https://github.com/OSrivalli/Automation_TC.git
+ 1813  ls
+ 1814  cd ..
+ 1815  cp new_git/Automation_TSI/Selenium/ mygit/Automation_TC/
+ 1816  cd new_git/Automation_TSI/Selenium/
+ 1817  ls
+ 1818  cd -
+ 1819  cd mygit/Automation_TC/
+ 1820  ls
+ 1821  ls -al
+ 1822  git status
+ 1823  git add .
+ 1824  git commit -m "TC automation"
+ 1825  ls
+ 1826  git push origin master
+ 1827  cd /etc/jenkins_jobs/jobs1/
+ 1828  nano 01_main.yaml 
+ 1829  cd -
+ 1830  pwd
+ 1831  cd Hello/
+ 1832  ls
+ 1833  nano array.c 
+ 1834  gcc -g array.c -o array
+ 1835  nano array.c 
+ 1836  gcc -g array.c -o array
+ 1837  nano array.c 
+ 1838  gcc -g array.c -o array
+ 1839  objdump ./array
+ 1840  objdump -S ./array
+ 1841  objdump -S ./array > array.txt
+ 1842  readelf -S ./array > array1.txt
+ 1843  readelf -s ./array > array1.txt
+ 1844  readelf
+ 1845  readelf -D ./array > array1.txt
+ 1846  readelf -r ./array > array1.txt
+ 1847  readelf -d ./array > array1.txt
+ 1848  readelf -g ./array > array1.txt
+ 1849  objdump -g ./array > array1.txt
+ 1850  objdump -a ./array > array1.txt
+ 1851  readelf -a ./array > array1.txt
+ 1852  gdb ./array
+ 1853  nano array.c 
+ 1854  gdb ./array
+ 1855  gcc --save-temps array.c
+ 1856  nano array.c
+ 1857  gcc --save-temps array.c
+ 1858  gdb ./array
+ 1859  gcc -g array.c -o array
+ 1860  gdb ./array
+ 1861  gcc -g array.c -o array
+ 1862  gdb ./array
+ 1863  gcc -g array.c -o array
+ 1864  gdb ./array
+ 1865  gcc -g array.c -o array
+ 1866  gdb ./array
+ 1867  gcc -g array.c -o array
+ 1868  gdb ./array
+ 1869  gcc -g array.c -o array
+ 1870  gdb ./array
+ 1871  cd /etc/jenkins_jobs/jobs/
+ 1872  ls
+ 1873  rm -rf 02*
+ 1874  rm -rf Jenkins_Metric-cloc/
+ 1875  ls
+ 1876  nano sep19.yaml 
+ 1877  jenkins-jobs test --config-xml sep19.yaml -o .
+ 1878  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update sep19.yaml 
+ 1879  nano sep19.yaml 
+ 1880  jenkins-jobs test --config-xml sep19.yaml -o .
+ 1881  jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update sep19.yaml 
+ 1882  nano sep19.yaml 
+ 1883  pwd
+ 1884  ls
+ 1885  mkdir temp
+ 1886  cd temp
+ 1887  git clone https://github.com/OSrivalli/jobs.git
+ 1888  ls
+ 1889  cd jobs/
+ 1890  ls
+ 1891  cp main.py jenkins_file.py
+ 1892  nano jenkins_file.py 
+ 1893  git add jenkins_file.py 
+ 1894  git commit -m "4 nodes"
+ 1895  git push origin master
+ 1896  nano jenkins_file.py 
+ 1897  git add jenkins_file.py 
+ 1898  git commit -m "4 nodes"
+ 1899  git push origin master
+ 1900  python jenkins_file.py Samsung nandu
+ 1901  cp /etc/jenkins_jobs/jobs/shell/final_mainjob.yaml 
+ 1902  cp /etc/jenkins_jobs/jobs/shell/final_mainjob.yaml .
+ 1903  cp /etc/jenkins_jobs/jobs/shell/final_nodes.yaml .
+ 1904  cp /etc/jenkins_jobs/jobs/shell/create_jobs.sh 
+ 1905  cp /etc/jenkins_jobs/jobs/shell/create_jobs.sh .
+ 1906  cp /etc/jenkins_jobs/jobs/shell/delete_jobs.sh .
+ 1907  ls
+ 1908  git status
+ 1909  mv final_mainjob.yaml configure_auto_test.yaml
+ 1910  git status
+ 1911  mv final_nodes.yaml configure_connected_nodes.yaml
+ 1912  git status
+ 1913  nano create_jobs.sh 
+ 1914  nano delete_jobs.sh 
+ 1915  nano configure_auto_test.yaml 
+ 1916  nano configure_connected_nodes.yaml 
+ 1917  nano configure_auto_test.yaml 
+ 1918  nano configure_connected_nodes.yaml 
+ 1919  nano configure_auto_test.yaml 
+ 1920  nano delete_jobs.sh 
+ 1921  git status
+ 1922  git add .
+ 1923  git commit -m "yaml files"
+ 1924  git push origin master
+ 1925  nano jenkins_file.py
+ 1926  cp jenkins_file.py trigger_jobs.py
+ 1927  nano jenkins_file.py 
+ 1928  git add jenkins_file.py 
+ 1929  git commit -m "build without params"
+ 1930  git push origin master
+ 1931  pwd
+ 1932  nano configure_auto_test.yaml 
+ 1933  git add configure_auto_test.yaml 
+ 1934  git commit -m "updates"
+ 1935  git push origin master
+ 1936  nano jenkins_file.py 
+ 1937  git add jenkins_file.py 
+ 1938  git commit -m "update"
+ 1939  git push origin master
+ 1940  nano jenkins_file.py 
+ 1941  git add jenkins_file.py 
+ 1942  git commit -m "update"
+ 1943  git push origin master
+ 1944  ls
+ 1945  git status
+ 1946  git diff configure_auto_test.yaml
+ 1947  git diff configure_connected_nodes.yaml
+ 1948  git add configure_connected_nodes.yaml 
+ 1949  git add configure_auto_test.yaml 
+ 1950  git commit -m "done"
+ 1951  git push origin master
+ 1952  git status
+ 1953  git diff configure_connected_nodes.yaml
+ 1954  git add configure_connected_nodes.yaml 
+ 1955  git commit -m "robot"
+ 1956  git push origin master
+ 1957  cd ../..
+ 1958  cd Hello/
+ 1959  virtualenv jenkins-views
+ 1960  source bin/activate
+ 1961  pip install jenkins-view-builder
+ 1962  jenkins-view-builder --version
+ 1963  cp /etc/jenkins_jobs/WC/view_jobs.yaml .
+ 1964  ls
+ 1965  jenkins-view-builder test view_jobs.yaml 
+ 1966  nano view_jobs.yaml 
+ 1967  jenkins-view-builder test view_jobs.yaml 
+ 1968  nano view_jobs.yaml 
+ 1969  jenkins-view-builder test view_jobs.yaml 
+ 1970  jenkins-view-builder test view_jobs.yaml -o .
+ 1971  nano view_jobs.yaml 
+ 1972  ls
+ 1973  cp /etc/jenkins_jobs/WC/view_jobs.yaml .
+ 1974  ls
+ 1975  jenkins-view-builder test view_jobs.yaml -o .
+ 1976  ls
+ 1977  jenkins-view-builder test view_jobs.yaml 
+ 1978  ls
+ 1979  nano view_jobs.yaml 
+ 1980  jenkins-view-builder test view_jobs.yaml 
+ 1981  ls
+ 1982  jenkins-view-builder test view_jobs.yaml -o .
+ 1983  ls
+ 1984  cat jenkins.conf
+ 1985  nano jenkins.conf
+ 1986  jenkins-view-builder update --conf jenkins.conf view_jobs.yaml 
+ 1987  ls
+ 1988  jenkins-view-builder test view_jobs.yaml 
+ 1989  nano jenkins.conf
+ 1990  nano view_jobs.yaml 
+ 1991  jenkins-view-builder test 
+ 1992  jenkins-view-builder test /home/srivalli/Hello/jenkins-views/view_jobs.yaml 
+ 1993  pwd
+ 1994  ls
+ 1995  cd /var/lib/jenkins/
+ 1996  jenkins-view-builder --version
+ 1997  q
+ 1998  quit
+ 1999  exit
+ 2000  ssh sravya@192.168.200.107
+ 2001  history
+ 2002  history > history.txt
