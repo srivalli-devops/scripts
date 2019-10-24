@@ -1,0 +1,323 @@
+Device
+
+return[
+'',
+'SAMSUNG',
+'OPPO',
+'HTC',
+'APPLE',
+'ONEPLUS'
+]
+
+
+return["error"]
+
+Please select the Device to execute the build
+
+
+Maciene
+
+if(Device.equals("SAMSUNG")) {
+return['','Windows-1', 'Ubuntu-1']
+} else if(Device.equals("OPPO")) {
+return['','Windows-2', 'Ubuntu-2']
+} else if(Device.equals("HTC")) {
+return['','Windows-3', 'Ubuntu-3']
+} else if(Device.equals("APPLE")) {
+return['','Windows-4', 'Ubuntu-4']
+} else if(Device.equals("ONEPLUS")) {
+return['','Windows-5', 'Ubuntu-5']
+} else {
+return("Select a Device from the drop down")
+}
+
+return("****** Unknown Device *******")
+
+Device
+
+
+
+if(Machiene.equals("Nanda")) {
+return['Nanda']
+} else if(Machiene.equals("nikhil")) {
+return['nikhil']
+} else {
+return("Select a Device from the drop down")
+}
+
+
+if(Device.equals("SAMSUNG")) {
+	if(Machiene.equals("Nanda")) {
+		return['Nanda']
+	} 
+} else if(Device.equals("OPPO")) {
+	if(Machiene.equals("Nanda")) {
+		return['Nanda']
+	} if(Machiene.equals("nikhil")) {
+		return['nikhil']
+	} 
+} else {
+return("Select a Device from the drop down")
+}
+
+
+
+
+switch(Machiene) {
+  case "nikhil":
+    result = "nikhil"
+  case "Nanda":
+    result = "Nanda"
+  default:
+    break
+}
+echo "${result}"
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////
+
+Jenkins MAster Slave  :  https://www.howtoforge.com/tutorial/ubuntu-jenkins-master-slave/
+
+On Master:
+
+su - srivalli
+ssh-keygen
+ls -lah ~/.ssh/
+
+cat /home/srivalli/.ssh/id_rsa   -> copy this to Jenkins SSH credentials
+
+		ssh-copy-id sravya@192.168.200.107
+		ssh sravya@192.168.200.107
+
+
+Node 1:
+On Slave : 192.168.200.119
+
+useradd -m -s /bin/bash Nanda
+passwd Nanda  (Thunder@789)
+
+Node 2:
+On slave : 192.168.200.162
+
+nikhil@tshydnnn:~$ sudo useradd -m -s /bin/bash Nikhil
+[sudo] password for nikhil: 
+nikhil@tshydnnn:~$ 
+nikhil@tshydnnn:~$ passwd Nikhil
+passwd: You may not view or modify password information for Nikhil.
+nikhil@tshydnnn:~$ sudo passwd Nikhil
+Enter new UNIX password:    (Thunder@789)
+Retype new UNIX password: 
+passwd: password updated successfully
+nikhil@tshydnnn:~$ 
+
+
+srivalli@tshyd011:/usr/local/lib/python2.7$ ssh-copy-id nikhil@192.168.200.162
+/usr/bin/ssh-copy-id: INFO: attempting to log in with the new key(s), to filter out any that are already installed
+/usr/bin/ssh-copy-id: INFO: 1 key(s) remain to be installed -- if you are prompted now it is to install the new keys
+nikhil@192.168.200.162's password: 
+
+Number of key(s) added: 1
+
+Now try logging into the machine, with:   "ssh 'nikhil@192.168.200.162'"
+and check to make sure that only the key(s) you wanted were added.
+
+srivalli@tshyd011:/usr/local/lib/python2.7$ ssh 'nikhil@192.168.200.162'
+Welcome to Ubuntu 16.04.5 LTS (GNU/Linux 4.15.0-52-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+381 packages can be updated.
+293 updates are security updates.
+
+New release '18.04.2 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+========================================================================
+
+Get the IP address: 
+println "ifconfig".execute().text
+
+Get the hostname:
+println "hostname".execute().text
+
+if (System.properties['os.name'].toLowerCase().contains('windows')) {
+    println "it's Windows on Nanda"
+} else {
+    println "it's not Windows on Nanda"
+}
+
+
+working:
+for (aSlave in hudson.model.Hudson.instance.slaves) {
+  println('====================');
+  println('Name: ' + aSlave.name);
+  println('getWorkspaceRoot: ' + aSlave.getWorkspaceRoot());
+  println('getNumExectutors: ' + aSlave.getNumExecutors());
+  
+  println('getMode: ' + aSlave.getMode());
+  println('getComputer: ' + aSlave.getComputer());
+  println('isOnline: ' + aSlave.getComputer().isOnline());
+  println('isUnix: ' + aSlave.getComputer().isUnix());
+}
+
+
+https://stackoverflow.com/questions/38240943/how-to-trigger-a-jenkins-build-on-specific-node-using-pipeline-plugin
+
+https://www.codefactor.io/repository/github/jenkinsci/pipeline-examples/source/master/pipeline-examples/trigger-job-on-all-nodes/triggerJobOnEveryNode.groovy
+
+
+for (aSlave in hudson.model.Hudson.instance.slaves) {
+  println('========Inside For loop============');
+  if (aSlave.name == "Machiene") {
+    println('====================');
+    count =1
+    println('Name: ' + aSlave.name);
+    println('getWorkspaceRoot: ' + aSlave.getWorkspaceRoot());
+    }
+}
+if (count !=1) {
+    println ('Not Found');
+    }
+
+
+jenkins.model.Jenkins.instance.nodes.collect { node -> node.name }
+
+
+def branches = [:]
+def names = nodeNames()
+for (int i=0; i<names.size(); ++i) {
+  def nodeName = names[i];
+  branches["node_" + nodeName] = {
+    node(nodeName) {
+      echo "Triggering on " + nodeName
+    }
+  }
+}
+
+parallel branches
+
+
+def nodeNames() {
+  return jenkins.model.Jenkins.instance.nodes.collect { node -> node.name }
+}
+
+
+agent {
+    node {
+        label 'my-defined-label'
+        customWorkspace '/some/other/path'
+    }
+}
+
+
+pipeline {
+    agent any
+    stages {
+        stage('Example') {
+            steps {
+                echo 'Hello World'
+
+                script {
+                    def browsers = ['chrome', 'firefox']
+                    for (int i = 0; i < browsers.size(); ++i) {
+                        echo "Testing the ${browsers[i]} browser"
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+pipeline {
+    agent {
+        node {
+            label 'Nanda'
+            echo 'Hellooooooooooo World'
+            steps {
+                echo 'Hello World'
+                script {
+                    def browsers = ['chrome', 'firefox']
+                    for (int i = 0; i < browsers.size(); ++i) {
+                        echo "Testing the ${browsers[i]} browser"
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+pipeline {
+    agent { label 'nikhil' } 
+        {
+        stages {
+            stage('Build') {
+                steps {
+                   echo 'Building..'
+                   script {
+                       build job: 'Pipeline_Trigger_Nikhil', parameters: [[$class: 'NodeParameterValue', name: 'nikhil', labels: [Machiene], nodeEligibility: [$class: 'AllNodeEligibility']]]
+                   }
+                }
+            }    
+        }
+    agent { label 'Nanda' }
+        {
+        stages {
+            stage('Build') {
+                steps {
+                  echo 'Building..'
+                  script {
+                       build job: 'Pipeline_Trigger_Nanda', parameters: [[$class: 'NodeParameterValue', name: 'Nanda', labels: [Machiene], nodeEligibility: [$class: 'AllNodeEligibility']]]
+                  }
+                }
+            }    
+        }
+}
+
+
+
+
+pipeline {
+    agent none 
+        stages {
+            stage('Nikhil') {
+                agent { label 'nikhil'}
+		when {
+                Selected 'nikhil'
+            }
+                    steps {
+                        echo 'Building..'
+                        script {
+                            build job: 'Pipeline_Trigger_Nikhil', parameters: [[$class: 'NodeParameterValue', name: 'nikhil', labels: [Machiene], nodeEligibility: [$class: 'AllNodeEligibility']]]
+                        }
+                    }
+                }
+            }
+            stage('Nanda') {
+                agent { 
+                    node {
+                        label "Nanda"
+                    }
+                }
+                steps {
+                        echo 'Building..'
+                        script {
+                            build job: 'Pipeline_Trigger_Nanda', parameters: [[$class: 'NodeParameterValue', name: 'Nanda', labels: [Machiene], nodeEligibility: [$class: 'AllNodeEligibility']]]
+                        }
+                    }
+                }
+        }
+    
+}
