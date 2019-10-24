@@ -1,0 +1,51 @@
+
+1)
+https://jjasghar.github.io/blog/2016/01/03/getting-jenkins-and-jenkins-job-builder-running/
+
+pip install .....
+
+2)
+https://github.com/ruivapps/jenkins2-job-builder/issues/1
+
+~/.config/jenkins_jobs/jenkins_jobs.ini
+
+[job_builder]
+ignore_cache=True
+keep_descriptions=False
+include_path=.
+recursive=False
+allow_duplicates=False
+print_job_urls=True
+
+[jenkins]
+user=USER_NAME
+password=API_KEY
+url=JENKINS_URL
+timeout=10
+query_plugins_info=False
+
+
+cd /etc/jenkins-jobs
+nano WT_PBSP_T.yaml
+jenkins-jobs test --config-xml WT_PBSP_T.yaml -o .
+jenkins-jobs --conf /etc/jenkins_jobs/jenkins_jobs.ini update WT_PBSP_T.yaml
+
+------------------------------------------------------------------------------------
+
+
+https://www.unixdaemon.net/tools/trying-jenkins-view-builder/
+
+(jenkins-views) srivalli@tshyd011:~/Hello/jenkins-views$ nano puppet-view.yaml(jenkins-views) srivalli@tshyd011:~/Hello/jenkins-views$ jenkins-view-builder test puppet-view.yaml
+(jenkins-views) srivalli@tshyd011:~/Hello/jenkins-views$ jenkins-view-builder update --conf jenkins.conf puppet-view.yaml
+Updating view data in Jenkins
+Updating view Automated Tests
+(jenkins-views) srivalli@tshyd011:~/Hello/jenkins-views$ 
+
+https://github.com/piyush0101/jenkins-view-builder/tree/master/tests/fixtures
+
+----------------------
+
+pip install jjb-reactive-choice-param
+
+
+Hi<br /><br />${SCRIPT,template="email-template.groovy"}<br /><br />thanks<br />automation team<br />
