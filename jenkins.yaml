@@ -1,6 +1,6 @@
     jenkins:
-         systemMessage: "SRIVALLI OGURI"
+      systemMessage: "SRIVALLI OGURI"
 
     location:
-         adminAddress: srivalli.oguri@thundersoft.com
-         url: https://localhost:8080/jenkins
+      adminAddress: srivalli.oguri@thundersoft.com
+      url: https://localhost:8080/jenkins
