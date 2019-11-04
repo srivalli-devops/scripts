@@ -4,7 +4,7 @@ import requests
 
 
 def CALLJENKINS ( Project, Parameter ):
-	requests.get ( "http://localhost:8080/job/{0}/build?token=slave&Item={1}".format ( Project, Parameter ) )
+	requests.get ( "http://localhost:8080/jenkins/job/{0}/build?token=slave&Item={1}".format ( Project, Parameter ) )
 
 print "\n\n\n\n", sys.argv, "\n\n\n\n"
 
